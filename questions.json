@@ -1,0 +1,2065 @@
+{
+  "duration": 120,
+  "neg": 0.25,
+  "sections": [
+    {
+      "name": "General Intelligence and Reasoning Ability",
+      "nameHi": "सामान्य बुद्धि एवं तर्कशक्ति",
+      "questions": [
+        {
+          "qid": "4410091528153",
+          "qEn": "What should come in place of '?' in the given series?\n5 11 23 47 95 ?",
+          "qHi": "What should come in place of '?' in the given series?\n5 11 23 47 95 ?",
+          "optEn": [
+            "195",
+            "191",
+            "200",
+            "204"
+          ],
+          "optHi": [
+            "195",
+            "191",
+            "200",
+            "204"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009778962",
+          "qEn": "HH 12 is related to FE -4 in a certain way. In the same way, EI 13 is related to CF -3. To which of the following is MP 20 related, following the same logic?",
+          "qHi": "HH 12 is related to FE -4 in a certain way. In the same way, EI 13 is related to CF -3. To which of the following is MP 20 related, following the same logic?",
+          "optEn": [
+            "LM 4",
+            "KM 4",
+            "KL 6",
+            "LL 6"
+          ],
+          "optHi": [
+            "LM 4",
+            "KM 4",
+            "KL 6",
+            "LL 6"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009864935",
+          "qEn": "If the water source is placed along M-N, as shown in the figure, which of the given options, will be the water reflection of the given figure?",
+          "qHi": "If the water source is placed along M-N, as shown in the figure, which of the given options, will be the water reflection of the given figure?",
+          "optEn": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+          ],
+          "optHi": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": "",
+          "img": "images/gi_q03_question.png",
+          "optImg": [
+            "images/gi_q03_option1.png",
+            "images/gi_q03_option2.png",
+            "images/gi_q03_option3.png",
+            "images/gi_q03_option4.png"
+          ]
+        },
+        {
+          "qid": "4410091618940",
+          "qEn": "What should come in place of ? in the given series based on the English alphabetical order?\nNIOD VQWL DYET LGMB ?",
+          "qHi": "What should come in place of ? in the given series based on the English alphabetical order?\nNIOD VQWL DYET LGMB ?",
+          "optEn": [
+            "TUHG",
+            "THGV",
+            "TOUJ",
+            "TOIL"
+          ],
+          "optHi": [
+            "TUHG",
+            "THGV",
+            "TOUJ",
+            "TOIL"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009788297",
+          "qEn": "This question is based on the five, three-digit numbers given below.\n(Left) 589 524 539 617 676 (Right)\n(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)\nNOTE - All operations to be done from left to right.\nWhat will be the resultant if the third digit of the highest number is added to the second digit of the lowest number?",
+          "qHi": "This question is based on the five, three-digit numbers given below.\n(Left) 589 524 539 617 676 (Right)\n(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)\nNOTE - All operations to be done from left to right.\nWhat will be the resultant if the third digit of the highest number is added to the second digit of the lowest number?",
+          "optEn": [
+            "7",
+            "8",
+            "5",
+            "6"
+          ],
+          "optHi": [
+            "7",
+            "8",
+            "5",
+            "6"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091609180",
+          "qEn": "What will come in the place of '?' in the following equation if '+' and '-' are interchanged and 'x' and '÷' are interchanged?\n18 x 2 + 7 - 3 ÷ 1 = ?",
+          "qHi": "What will come in the place of '?' in the following equation if '+' and '-' are interchanged and 'x' and '÷' are interchanged?\n18 x 2 + 7 - 3 ÷ 1 = ?",
+          "optEn": [
+            "12",
+            "8",
+            "5",
+            "3"
+          ],
+          "optHi": [
+            "12",
+            "8",
+            "5",
+            "3"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009528655",
+          "qEn": "Below are given two sets of numbers. In each set of numbers, a certain mathematical operation on first number results in the second number. Similarly, certain mathematical operation on second number results in the third number and so on. Which of the given options follows the same set of operations as in question?\n(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)\n38 - 266 - 532 - 544\n13 - 91 - 182 - 194",
+          "qHi": "Below are given two sets of numbers. In each set of numbers, a certain mathematical operation on first number results in the second number. Similarly, certain mathematical operation on second number results in the third number and so on. Which of the given options follows the same set of operations as in question?\n(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)\n38 - 266 - 532 - 544\n13 - 91 - 182 - 194",
+          "optEn": [
+            "25 - 155 - 465 - 478",
+            "22 - 154 - 770 - 782",
+            "12 - 96 - 288 - 300",
+            "15 - 105 - 210 - 222"
+          ],
+          "optHi": [
+            "25 - 155 - 465 - 478",
+            "22 - 154 - 770 - 782",
+            "12 - 96 - 288 - 300",
+            "15 - 105 - 210 - 222"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091619668",
+          "qEn": "In a row of people all facing north, Tanya is 14th from the left end. Rahul is 29th from the left end. Rahul is exactly between Tanya and Aditya. If Aditya is 5th from the right end of the line, how many people are there in the row?",
+          "qHi": "In a row of people all facing north, Tanya is 14th from the left end. Rahul is 29th from the left end. Rahul is exactly between Tanya and Aditya. If Aditya is 5th from the right end of the line, how many people are there in the row?",
+          "optEn": [
+            "47",
+            "49",
+            "46",
+            "48"
+          ],
+          "optHi": [
+            "47",
+            "49",
+            "46",
+            "48"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009216072",
+          "qEn": "If 2 is added to each odd digit and 1 is subtracted from each even digit in the number 2561473, then how many digits will appear more than once in the new number thus formed?",
+          "qHi": "If 2 is added to each odd digit and 1 is subtracted from each even digit in the number 2561473, then how many digits will appear more than once in the new number thus formed?",
+          "optEn": [
+            "None",
+            "One",
+            "Two",
+            "Three"
+          ],
+          "optHi": [
+            "None",
+            "One",
+            "Two",
+            "Three"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009782362",
+          "qEn": "Based on the alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group?\n(Note: The odd man out is not based on the number of consonants/vowels or their position in the letter cluster.)",
+          "qHi": "Based on the alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group?\n(Note: The odd man out is not based on the number of consonants/vowels or their position in the letter cluster.)",
+          "optEn": [
+            "PMK",
+            "XVS",
+            "FCA",
+            "ZWU"
+          ],
+          "optHi": [
+            "PMK",
+            "XVS",
+            "FCA",
+            "ZWU"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009784837",
+          "qEn": "Refer to the following series and answer the question. Counting to be done from left to right only. (All numbers are single digit numbers only).\n(Left) 6 9 5 4 2 1 4 5 8 4 6 7 3 6 8 5 2 9 1 2 1 7 4 4 5 5 8 4 4 2 (Right)\nHow many such prime digits are there each of which is immediately preceded by an even digit and also immediately followed by an even digit?",
+          "qHi": "Refer to the following series and answer the question. Counting to be done from left to right only. (All numbers are single digit numbers only).\n(Left) 6 9 5 4 2 1 4 5 8 4 6 7 3 6 8 5 2 9 1 2 1 7 4 4 5 5 8 4 4 2 (Right)\nHow many such prime digits are there each of which is immediately preceded by an even digit and also immediately followed by an even digit?",
+          "optEn": [
+            "More than three",
+            "One",
+            "Two",
+            "Three"
+          ],
+          "optHi": [
+            "More than three",
+            "One",
+            "Two",
+            "Three"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009216483",
+          "qEn": "Each of E, F, G, I, W, X and Y has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. Only three people have exams between I and F. Only three people have exams between W and X. E has an exam on some day before F and on some day after Y. Only G has an exam before X. How many people have exams after I?",
+          "qHi": "Each of E, F, G, I, W, X and Y has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. Only three people have exams between I and F. Only three people have exams between W and X. E has an exam on some day before F and on some day after Y. Only G has an exam before X. How many people have exams after I?",
+          "optEn": [
+            "Four",
+            "Three",
+            "One",
+            "Two"
+          ],
+          "optHi": [
+            "Four",
+            "Three",
+            "One",
+            "Two"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091619661",
+          "qEn": "In a row of 26 students facing north, Manish is 15th from the left end. If Divya is 6th to the right of Manish, what is Divya's position from the right end of the line?",
+          "qHi": "In a row of 26 students facing north, Manish is 15th from the left end. If Divya is 6th to the right of Manish, what is Divya's position from the right end of the line?",
+          "optEn": [
+            "6th",
+            "4th",
+            "7th",
+            "3rd"
+          ],
+          "optHi": [
+            "6th",
+            "4th",
+            "7th",
+            "3rd"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091614531",
+          "qEn": "In a certain code language, 'FLAT' is coded as '4625' and 'CALF' is coded as '2674'. What is the code for 'C' in the given code language?",
+          "qHi": "In a certain code language, 'FLAT' is coded as '4625' and 'CALF' is coded as '2674'. What is the code for 'C' in the given code language?",
+          "optEn": [
+            "6",
+            "7",
+            "2",
+            "4"
+          ],
+          "optHi": [
+            "6",
+            "7",
+            "2",
+            "4"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009216475",
+          "qEn": "Each vowel in the word ABATAGES is changed to the letter immediately preceding it in the English alphabetical order and each consonant is changed to the letter immediately following it in the English alphabetical order. Which of the following letters will appear more than twice in the new group of letters thus formed?",
+          "qHi": "Each vowel in the word ABATAGES is changed to the letter immediately preceding it in the English alphabetical order and each consonant is changed to the letter immediately following it in the English alphabetical order. Which of the following letters will appear more than twice in the new group of letters thus formed?",
+          "optEn": [
+            "H",
+            "Z",
+            "U",
+            "C"
+          ],
+          "optHi": [
+            "H",
+            "Z",
+            "U",
+            "C"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091614507",
+          "qEn": "If the water source is placed along X-Y, as shown in the figure, which of the given options will be the water reflection of the given figure?",
+          "qHi": "If the water source is placed along X-Y, as shown in the figure, which of the given options will be the water reflection of the given figure?",
+          "optEn": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+          ],
+          "optHi": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": "",
+          "img": "images/gi_q16_question.png",
+          "optImg": [
+            "images/gi_q16_option1.png",
+            "images/gi_q16_option2.png",
+            "images/gi_q16_option3.png",
+            "images/gi_q16_option4.png"
+          ]
+        },
+        {
+          "qid": "4410091614480",
+          "qEn": "F is the father of I. I is the brother of G. W is the father of Z. Z is the son of G. How is W related to F?",
+          "qHi": "F is the father of I. I is the brother of G. W is the father of Z. Z is the son of G. How is W related to F?",
+          "optEn": [
+            "Daughter's son",
+            "Father",
+            "Husband",
+            "Daughter's husband"
+          ],
+          "optHi": [
+            "Daughter's son",
+            "Father",
+            "Husband",
+            "Daughter's husband"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009216750",
+          "qEn": "Seven people, E, F, G, H, K, L and N, are sitting in a row, facing the north. Only two people sit between K and E. Only G sits to the right of H. Only one person sits between E and H. N sits at some place to the right of L but at some place to the left of F. How many people sit between F and L?",
+          "qHi": "Seven people, E, F, G, H, K, L and N, are sitting in a row, facing the north. Only two people sit between K and E. Only G sits to the right of H. Only one person sits between E and H. N sits at some place to the right of L but at some place to the left of F. How many people sit between F and L?",
+          "optEn": [
+            "Two",
+            "One",
+            "Three",
+            "Four"
+          ],
+          "optHi": [
+            "Two",
+            "One",
+            "Three",
+            "Four"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009764842",
+          "qEn": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group?\n(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+          "qHi": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group?\n(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+          "optEn": [
+            "PUV",
+            "GKM",
+            "WAC",
+            "KOQ"
+          ],
+          "optHi": [
+            "PUV",
+            "GKM",
+            "WAC",
+            "KOQ"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009779769",
+          "qEn": "Refer to the following letter series and answer the question. (Counting to be done from left to right only)\n(Left) P V V M H V X E L E E F T S I O X I G (Right)\nHow many such vowels are there each of which is immediately preceded by a consonant and also immediately followed by a vowel?",
+          "qHi": "Refer to the following letter series and answer the question. (Counting to be done from left to right only)\n(Left) P V V M H V X E L E E F T S I O X I G (Right)\nHow many such vowels are there each of which is immediately preceded by a consonant and also immediately followed by a vowel?",
+          "optEn": [
+            "1",
+            "3",
+            "2",
+            "4"
+          ],
+          "optHi": [
+            "1",
+            "3",
+            "2",
+            "4"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        }
+      ]
+    },
+    {
+      "name": "General Awareness",
+      "nameHi": "सामान्य जागरूकता",
+      "questions": [
+        {
+          "qid": "441009749559",
+          "qEn": "Which of the following sitar maestros is renowned for contributions to classical music in India?",
+          "qHi": "Which of the following sitar maestros is renowned for contributions to classical music in India?",
+          "optEn": [
+            "R.D. Burman",
+            "Zakir Hussain",
+            "Pandit Bhimsen Joshi",
+            "Ravi Shankar"
+          ],
+          "optHi": [
+            "R.D. Burman",
+            "Zakir Hussain",
+            "Pandit Bhimsen Joshi",
+            "Ravi Shankar"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091120869",
+          "qEn": "Structural unemployment occurs primarily due to:",
+          "qHi": "Structural unemployment occurs primarily due to:",
+          "optEn": [
+            "Skill mismatch",
+            "Cyclical demand fall",
+            "Voluntary quitting",
+            "Seasonal variation"
+          ],
+          "optHi": [
+            "Skill mismatch",
+            "Cyclical demand fall",
+            "Voluntary quitting",
+            "Seasonal variation"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009275878",
+          "qEn": "In 2025, which Indian Special Forces unit represented India in the 12th edition of Exercise KHANJAR held in Kyrgyzstan?",
+          "qHi": "In 2025, which Indian Special Forces unit represented India in the 12th edition of Exercise KHANJAR held in Kyrgyzstan?",
+          "optEn": [
+            "Parachute Regiment (Special Forces)",
+            "Garhwal Rifles Regiment (Special forces)",
+            "Sikh Light Infantry Regiment (Special forces)",
+            "Jat Infantry Regiment (Special forces)"
+          ],
+          "optHi": [
+            "Parachute Regiment (Special Forces)",
+            "Garhwal Rifles Regiment (Special forces)",
+            "Sikh Light Infantry Regiment (Special forces)",
+            "Jat Infantry Regiment (Special forces)"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009671684",
+          "qEn": "What does the Indian Constitution state about the Directive Principles of State Policy?",
+          "qHi": "What does the Indian Constitution state about the Directive Principles of State Policy?",
+          "optEn": [
+            "They override rights during a national emergency period",
+            "They are optional and may be ignored by the government.",
+            "They are legally binding and enforceable by the courts.",
+            "They are not enforceable but guide state governance."
+          ],
+          "optHi": [
+            "They override rights during a national emergency period",
+            "They are optional and may be ignored by the government.",
+            "They are legally binding and enforceable by the courts.",
+            "They are not enforceable but guide state governance."
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009217414",
+          "qEn": "Russia signed a military alliance with which of the following countries in 2024?",
+          "qHi": "Russia signed a military alliance with which of the following countries in 2024?",
+          "optEn": [
+            "Iran",
+            "China",
+            "North Korea",
+            "Belarus"
+          ],
+          "optHi": [
+            "Iran",
+            "China",
+            "North Korea",
+            "Belarus"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009323487",
+          "qEn": "Which Article contained in the Fundamental Rights of the Indian Constitution deals with the prohibition of employment of children in factories and states that 'No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment'?",
+          "qHi": "Which Article contained in the Fundamental Rights of the Indian Constitution deals with the prohibition of employment of children in factories and states that 'No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment'?",
+          "optEn": [
+            "Article 31",
+            "Article 19",
+            "Article 24",
+            "Article 14"
+          ],
+          "optHi": [
+            "Article 31",
+            "Article 19",
+            "Article 24",
+            "Article 14"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009312279",
+          "qEn": "What was the impact of the ongoing India-Pakistan conflict on the Indian Premier League (IPL) 2025?",
+          "qHi": "What was the impact of the ongoing India-Pakistan conflict on the Indian Premier League (IPL) 2025?",
+          "optEn": [
+            "The IPL 2025 season continued without any interruptions.",
+            "The IPL 2025 season was relocated to the United Arab Emirates.",
+            "The IPL 2025 season was canceled entirely.",
+            "The IPL 2025 season was suspended for one week."
+          ],
+          "optHi": [
+            "The IPL 2025 season continued without any interruptions.",
+            "The IPL 2025 season was relocated to the United Arab Emirates.",
+            "The IPL 2025 season was canceled entirely.",
+            "The IPL 2025 season was suspended for one week."
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009606886",
+          "qEn": "Where was the capital of Alauddin Khalji built?",
+          "qHi": "Where was the capital of Alauddin Khalji built?",
+          "optEn": [
+            "Tughlaqabad",
+            "Ferozabad",
+            "Siri",
+            "Jahanpanah"
+          ],
+          "optHi": [
+            "Tughlaqabad",
+            "Ferozabad",
+            "Siri",
+            "Jahanpanah"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009513675",
+          "qEn": "Unlike sound waves, electromagnetic waves can travel through ___________.",
+          "qHi": "Unlike sound waves, electromagnetic waves can travel through ___________.",
+          "optEn": [
+            "Only solids",
+            "Only air",
+            "Vacuum",
+            "Only water"
+          ],
+          "optHi": [
+            "Only solids",
+            "Only air",
+            "Vacuum",
+            "Only water"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091551175",
+          "qEn": "During 1820–21, the Ho community, who rose against British and landlord oppression, were primarily situated in which of the following areas?",
+          "qHi": "During 1820–21, the Ho community, who rose against British and landlord oppression, were primarily situated in which of the following areas?",
+          "optEn": [
+            "Gumla",
+            "Saraikela",
+            "Singhbhum",
+            "Godda"
+          ],
+          "optHi": [
+            "Gumla",
+            "Saraikela",
+            "Singhbhum",
+            "Godda"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009226971",
+          "qEn": "As per the Periodic Labour Force Survey (PLFS), the Unemployment Rate (UR) in India, for individuals aged 15 years and above, has steadily declined from 6% in 2017-18 to _____ in 2023-24.",
+          "qHi": "As per the Periodic Labour Force Survey (PLFS), the Unemployment Rate (UR) in India, for individuals aged 15 years and above, has steadily declined from 6% in 2017-18 to _____ in 2023-24.",
+          "optEn": [
+            "5.2%",
+            "2.2%",
+            "4.2%",
+            "3.2%"
+          ],
+          "optHi": [
+            "5.2%",
+            "2.2%",
+            "4.2%",
+            "3.2%"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009637393",
+          "qEn": "Which of the following religious groups had the smallest population share among the listed ones in Census 2011?",
+          "qHi": "Which of the following religious groups had the smallest population share among the listed ones in Census 2011?",
+          "optEn": [
+            "Sikh",
+            "Hindu",
+            "Jain",
+            "Buddhist"
+          ],
+          "optHi": [
+            "Sikh",
+            "Hindu",
+            "Jain",
+            "Buddhist"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009460467",
+          "qEn": "Which of the following states' governor has particular responsibility for maintaining the state's law and order under Article 371 A of the Indian Constitution?",
+          "qHi": "Which of the following states' governor has particular responsibility for maintaining the state's law and order under Article 371 A of the Indian Constitution?",
+          "optEn": [
+            "Assam",
+            "Manipur",
+            "Nagaland",
+            "Mizoram"
+          ],
+          "optHi": [
+            "Assam",
+            "Manipur",
+            "Nagaland",
+            "Mizoram"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009205181",
+          "qEn": "Who was the chronicler that recognised Raziyya's abilities as a ruler of Delhi in 1236?",
+          "qHi": "Who was the chronicler that recognised Raziyya's abilities as a ruler of Delhi in 1236?",
+          "optEn": [
+            "Minhaj-i Siraj",
+            "Firishta",
+            "Ibn Battuta",
+            "Amir Khusrau"
+          ],
+          "optHi": [
+            "Minhaj-i Siraj",
+            "Firishta",
+            "Ibn Battuta",
+            "Amir Khusrau"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009217412",
+          "qEn": "Who became the new Chief of Hezbollah after the death of Hassan Nasrallah?",
+          "qHi": "Who became the new Chief of Hezbollah after the death of Hassan Nasrallah?",
+          "optEn": [
+            "Hashem Saifeddine",
+            "Zeinab Soleimani",
+            "Naim Qassem",
+            "Raeda Faqih"
+          ],
+          "optHi": [
+            "Hashem Saifeddine",
+            "Zeinab Soleimani",
+            "Naim Qassem",
+            "Raeda Faqih"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009616788",
+          "qEn": "Which of the following is an incomplete protein — a protein source that does not contain all essential amino acids in adequate amounts?",
+          "qHi": "Which of the following is an incomplete protein — a protein source that does not contain all essential amino acids in adequate amounts?",
+          "optEn": [
+            "Eggs",
+            "Fish",
+            "Milk",
+            "Pulses"
+          ],
+          "optHi": [
+            "Eggs",
+            "Fish",
+            "Milk",
+            "Pulses"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009205173",
+          "qEn": "In what year did Qutbuddin Aibak become the ruler of Muhammad Ghori's Indian possessions?",
+          "qHi": "In what year did Qutbuddin Aibak become the ruler of Muhammad Ghori's Indian possessions?",
+          "optEn": [
+            "AD 1206",
+            "AD 1210",
+            "AD 1221",
+            "AD 1192"
+          ],
+          "optHi": [
+            "AD 1206",
+            "AD 1210",
+            "AD 1221",
+            "AD 1192"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009306116",
+          "qEn": "In April 2025, the French luxury brand 'Chanel' named which Bollywood actress as its first-ever brand ambassador from India?",
+          "qHi": "In April 2025, the French luxury brand 'Chanel' named which Bollywood actress as its first-ever brand ambassador from India?",
+          "optEn": [
+            "Ananya Panday",
+            "Alia Bhatt",
+            "Shraddha Kapoor",
+            "Disha Patani"
+          ],
+          "optHi": [
+            "Ananya Panday",
+            "Alia Bhatt",
+            "Shraddha Kapoor",
+            "Disha Patani"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009638688",
+          "qEn": "Which of the following soil types is widespread in the northern Indian plains and river valleys?",
+          "qHi": "Which of the following soil types is widespread in the northern Indian plains and river valleys?",
+          "optEn": [
+            "Arid soil",
+            "Laterite soil",
+            "Alluvial soil",
+            "Black soil"
+          ],
+          "optHi": [
+            "Arid soil",
+            "Laterite soil",
+            "Alluvial soil",
+            "Black soil"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009638661",
+          "qEn": "Teak is the most dominant species of which of the following types of forest in India?",
+          "qHi": "Teak is the most dominant species of which of the following types of forest in India?",
+          "optEn": [
+            "Montane Forests",
+            "The Thorn Forests and Scrubs",
+            "Tropical Evergreen Forests",
+            "Tropical Deciduous Forests"
+          ],
+          "optHi": [
+            "Montane Forests",
+            "The Thorn Forests and Scrubs",
+            "Tropical Evergreen Forests",
+            "Tropical Deciduous Forests"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        }
+      ]
+    },
+    {
+      "name": "Arithmetical and Numerical Ability",
+      "nameHi": "अंकगणितीय एवं संख्यात्मक योग्यता",
+      "questions": [
+        {
+          "qid": "441009547566",
+          "qEn": "During a sale, 60% of the goods are sold at a profit of 47%. 40% of the remaining goods are sold at a profit of 44%, and the rest are sold at a loss of 11%. If all goods have the same cost price, and there is an overall profit of x%, then what is the value of x?",
+          "qHi": "During a sale, 60% of the goods are sold at a profit of 47%. 40% of the remaining goods are sold at a profit of 44%, and the rest are sold at a loss of 11%. If all goods have the same cost price, and there is an overall profit of x%, then what is the value of x?",
+          "optEn": [
+            "30.5",
+            "32.6",
+            "31.5",
+            "33.4"
+          ],
+          "optHi": [
+            "30.5",
+            "32.6",
+            "31.5",
+            "33.4"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009364035",
+          "qEn": "ग्राफ का अध्ययन करें और निम्नलिखित प्रश्न का उत्तर दें। तीन व्यक्तियों A, B और C द्वारा खरीदे गए विभिन्न फलों के बारे में जानकारी ग्राफ में दी गई है।\nA, B और C द्वारा एक साथ ख़रीदे गए फलों की कुल संख्या कितनी है?",
+          "qHi": "ग्राफ का अध्ययन करें और निम्नलिखित प्रश्न का उत्तर दें। तीन व्यक्तियों A, B और C द्वारा खरीदे गए विभिन्न फलों के बारे में जानकारी ग्राफ में दी गई है।\nA, B और C द्वारा एक साथ ख़रीदे गए फलों की कुल संख्या कितनी है?",
+          "optEn": [
+            "30",
+            "18",
+            "36",
+            "24"
+          ],
+          "optHi": [
+            "30",
+            "18",
+            "36",
+            "24"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": "",
+          "img": "images/an_q02_graph.png"
+        },
+        {
+          "qid": "441009153611",
+          "qEn": "If 9.9 : x :: x : 27.5, and x > 0, then find the value of x.",
+          "qHi": "If 9.9 : x :: x : 27.5, and x > 0, then find the value of x.",
+          "optEn": [
+            "16.5",
+            "19.7",
+            "12.9",
+            "13"
+          ],
+          "optHi": [
+            "16.5",
+            "19.7",
+            "12.9",
+            "13"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "44100917580",
+          "qEn": "A cone is inscribed in a sphere such that the radius of the cone is the same as the radius of the sphere, and the height of the cone is equal to the diameter of the sphere. What is the relationship between the volume of the sphere and the volume of the cone?",
+          "qHi": "A cone is inscribed in a sphere such that the radius of the cone is the same as the radius of the sphere, and the height of the cone is equal to the diameter of the sphere. What is the relationship between the volume of the sphere and the volume of the cone?",
+          "optEn": [
+            "Volume of cone is one-third of volume of sphere.",
+            "Volume of sphere is twice of volume of cone.",
+            "Volume of cone is three-fourth of volume of sphere.",
+            "Volume of cone is two-third of volume of sphere."
+          ],
+          "optHi": [
+            "Volume of cone is one-third of volume of sphere.",
+            "Volume of sphere is twice of volume of cone.",
+            "Volume of cone is three-fourth of volume of sphere.",
+            "Volume of cone is two-third of volume of sphere."
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009582034",
+          "qEn": "The average weight of a family of five members whose weights are 40 kg, 49 kg, 57 kg, 77 kg and 35 kg is:",
+          "qHi": "The average weight of a family of five members whose weights are 40 kg, 49 kg, 57 kg, 77 kg and 35 kg is:",
+          "optEn": [
+            "51.6 kg",
+            "53.6 kg",
+            "50.6 kg",
+            "52.6 kg"
+          ],
+          "optHi": [
+            "51.6 kg",
+            "53.6 kg",
+            "50.6 kg",
+            "52.6 kg"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009525624",
+          "qEn": "The LCM of the numbers 5, 3.2 and 0.03 is:",
+          "qHi": "The LCM of the numbers 5, 3.2 and 0.03 is:",
+          "optEn": [
+            "120",
+            "160",
+            "480",
+            "240"
+          ],
+          "optHi": [
+            "120",
+            "160",
+            "480",
+            "240"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009857037",
+          "qEn": "By how much is 30% of 80 greater than 25% of 30?",
+          "qHi": "By how much is 30% of 80 greater than 25% of 30?",
+          "optEn": [
+            "16.5",
+            "11.5",
+            "18.5",
+            "13.5"
+          ],
+          "optHi": [
+            "16.5",
+            "11.5",
+            "18.5",
+            "13.5"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009910891",
+          "qEn": "का मान ज्ञात कीजिए।",
+          "qHi": "का मान ज्ञात कीजिए।",
+          "optEn": [
+            "विकल्प 1",
+            "विकल्प 2",
+            "विकल्प 3",
+            "विकल्प 4"
+          ],
+          "optHi": [
+            "विकल्प 1",
+            "विकल्प 2",
+            "विकल्प 3",
+            "विकल्प 4"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": "",
+          "img": "images/an_q08_question.png",
+          "optImg": [
+            "images/an_q08_option1.png",
+            "images/an_q08_option2.png",
+            "images/an_q08_option3.png",
+            "images/an_q08_option4.png"
+          ]
+        },
+        {
+          "qid": "441009209085",
+          "qEn": "The distance between A and B is 1,223 km. From A, Chaman goes to B with a speed of 77 km/hr and return to A with a speed of 150 km/hr.\nFind the average speed of Chaman. (Rounded off to two decimal places)",
+          "qHi": "The distance between A and B is 1,223 km. From A, Chaman goes to B with a speed of 77 km/hr and return to A with a speed of 150 km/hr.\nFind the average speed of Chaman. (Rounded off to two decimal places)",
+          "optEn": [
+            "96.51 km/hr",
+            "101.76 km/hr",
+            "108.58 km/hr",
+            "96.35 km/hr"
+          ],
+          "optHi": [
+            "96.51 km/hr",
+            "101.76 km/hr",
+            "108.58 km/hr",
+            "96.35 km/hr"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009125601",
+          "qEn": "If the volume of cube is 19683 m³, then find the total surface area of cube in m².",
+          "qHi": "If the volume of cube is 19683 m³, then find the total surface area of cube in m².",
+          "optEn": [
+            "4374",
+            "4421",
+            "4341",
+            "4392"
+          ],
+          "optHi": [
+            "4374",
+            "4421",
+            "4341",
+            "4392"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009852622",
+          "qEn": "What sum (in ₹) will earn a simple interest of ₹1680 in 4 years at 4% per annum?",
+          "qHi": "What sum (in ₹) will earn a simple interest of ₹1680 in 4 years at 4% per annum?",
+          "optEn": [
+            "10200",
+            "10500",
+            "10550",
+            "10250"
+          ],
+          "optHi": [
+            "10200",
+            "10500",
+            "10550",
+            "10250"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009173298",
+          "qEn": "How many seconds will a boy take to run one complete round of a square field of side 20 metres, if he runs at a speed of 8 km/hr?",
+          "qHi": "How many seconds will a boy take to run one complete round of a square field of side 20 metres, if he runs at a speed of 8 km/hr?",
+          "optEn": [
+            "16",
+            "36",
+            "46",
+            "26"
+          ],
+          "optHi": [
+            "16",
+            "36",
+            "46",
+            "26"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009544140",
+          "qEn": "The average of 7 numbers is found to be 25. Later, it was found that two numbers 29 and 12 were wrongly copied as 10 and 10. The correct average is:",
+          "qHi": "The average of 7 numbers is found to be 25. Later, it was found that two numbers 29 and 12 were wrongly copied as 10 and 10. The correct average is:",
+          "optEn": [
+            "25",
+            "28",
+            "29",
+            "27"
+          ],
+          "optHi": [
+            "25",
+            "28",
+            "29",
+            "27"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009602798",
+          "qEn": "What is the diameter of the largest circle lying on the surface of a sphere of surface area 2,98,144 cm²?",
+          "qHi": "What is the diameter of the largest circle lying on the surface of a sphere of surface area 2,98,144 cm²?",
+          "optEn": [
+            "237 cm",
+            "154 cm",
+            "716 cm",
+            "308 cm"
+          ],
+          "optHi": [
+            "237 cm",
+            "154 cm",
+            "716 cm",
+            "308 cm"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": "",
+          "img": "images/an_q14_question.png"
+        },
+        {
+          "qid": "441009543438",
+          "qEn": "Ketan has two grandsons, Mahesh and David. 13-year-old Mahesh gets some money from Ketan's wealth, and 14-year-old David gets the rest of the money. But Mahesh and David will get the money only when they turn 25 years old. Till then, the money will be kept in a bank earning interest at the rate of 5% per annum, compounded annually. When both turn 25, they receive the same amount. If the total amount Ketan had was ₹24,600, how much money (in ₹) did Ketan initially give to David?",
+          "qHi": "Ketan has two grandsons, Mahesh and David. 13-year-old Mahesh gets some money from Ketan's wealth, and 14-year-old David gets the rest of the money. But Mahesh and David will get the money only when they turn 25 years old. Till then, the money will be kept in a bank earning interest at the rate of 5% per annum, compounded annually. When both turn 25, they receive the same amount. If the total amount Ketan had was ₹24,600, how much money (in ₹) did Ketan initially give to David?",
+          "optEn": [
+            "12,950",
+            "11,750",
+            "12,600",
+            "12,000"
+          ],
+          "optHi": [
+            "12,950",
+            "11,750",
+            "12,600",
+            "12,000"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009898437",
+          "qEn": "P started a software business by investing ₹21000. After nine months, R joined him with a capital of ₹72000. After 3 years, they earned a profit of ₹50000. What was P's share (in ₹, rounded off to the nearest integer) in the profit?",
+          "qHi": "P started a software business by investing ₹21000. After nine months, R joined him with a capital of ₹72000. After 3 years, they earned a profit of ₹50000. What was P's share (in ₹, rounded off to the nearest integer) in the profit?",
+          "optEn": [
+            "13931",
+            "13902",
+            "14000",
+            "13882"
+          ],
+          "optHi": [
+            "13931",
+            "13902",
+            "14000",
+            "13882"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009913875",
+          "qEn": "A can do a work in 17 days and B in 23 days. If they work on it together for 5 days, then what fraction of the work that is left?",
+          "qHi": "A can do a work in 17 days and B in 23 days. If they work on it together for 5 days, then what fraction of the work that is left?",
+          "optEn": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+          ],
+          "optHi": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": "",
+          "optImg": [
+            "images/an_q17_option1.png",
+            "images/an_q17_option2.png",
+            "images/an_q17_option3.png",
+            "images/an_q17_option4.png"
+          ]
+        },
+        {
+          "qid": "4410091546515",
+          "qEn": "A shopkeeper lists an item at ₹5,000. He offers a trade discount of 20% to a retailer. The retailer further gets a scheme discount of \"Buy goods worth ₹4,000 and get an additional ₹200 off\". What is the final amount the retailer has to pay?",
+          "qHi": "A shopkeeper lists an item at ₹5,000. He offers a trade discount of 20% to a retailer. The retailer further gets a scheme discount of \"Buy goods worth ₹4,000 and get an additional ₹200 off\". What is the final amount the retailer has to pay?",
+          "optEn": [
+            "₹4,200",
+            "₹3,800",
+            "₹3,600",
+            "₹4,000"
+          ],
+          "optHi": [
+            "₹4,200",
+            "₹3,800",
+            "₹3,600",
+            "₹4,000"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091546338",
+          "qEn": "A trader sells a bag for ₹1,260 at a loss of 10%. What was the cost price of the bag?",
+          "qHi": "A trader sells a bag for ₹1,260 at a loss of 10%. What was the cost price of the bag?",
+          "optEn": [
+            "₹1,350",
+            "₹1,300",
+            "₹1,450",
+            "₹1,400"
+          ],
+          "optHi": [
+            "₹1,350",
+            "₹1,300",
+            "₹1,450",
+            "₹1,400"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009519289",
+          "qEn": "A pipe can fill an empty tank in 11 hours, while another pipe can empty the filled tank in 44 hours. If both pipes are opened simultaneously when the tank is empty, how many hours will it take for the tank to be three-fourths full?",
+          "qHi": "A pipe can fill an empty tank in 11 hours, while another pipe can empty the filled tank in 44 hours. If both pipes are opened simultaneously when the tank is empty, how many hours will it take for the tank to be three-fourths full?",
+          "optEn": [
+            "22",
+            "33",
+            "44",
+            "11"
+          ],
+          "optHi": [
+            "22",
+            "33",
+            "44",
+            "11"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        }
+      ]
+    },
+    {
+      "name": "English Language and Comprehension",
+      "nameHi": "अंग्रेज़ी भाषा एवं बोध",
+      "questions": [
+        {
+          "qid": "4410091527498",
+          "qEn": "Choose the synonym of the highlighted word from the options given below.\nHe tried to cajole his friend into joining the trip by promising it would be unforgettable.\n[Highlighted: cajole]",
+          "qHi": "Choose the synonym of the highlighted word from the options given below.\nHe tried to cajole his friend into joining the trip by promising it would be unforgettable.\n[Highlighted: cajole]",
+          "optEn": [
+            "persuade",
+            "ignore",
+            "force",
+            "insult"
+          ],
+          "optHi": [
+            "persuade",
+            "ignore",
+            "force",
+            "insult"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091543674",
+          "qEn": "Select the most appropriate option to substitute the underlined word segment in the given sentence.\nSince the task was straightforward, the manager reminded the team that a simple and easy task can be quickly done.\n[Highlighted: a simple and easy task can be quickly done]",
+          "qHi": "Select the most appropriate option to substitute the underlined word segment in the given sentence.\nSince the task was straightforward, the manager reminded the team that a simple and easy task can be quickly done.\n[Highlighted: a simple and easy task can be quickly done]",
+          "optEn": [
+            "a stitch in time saves nine",
+            "a bald head is soon shaved",
+            "a little pot is soon hot",
+            "a guilty conscience needs no accuser"
+          ],
+          "optHi": [
+            "a stitch in time saves nine",
+            "a bald head is soon shaved",
+            "a little pot is soon hot",
+            "a guilty conscience needs no accuser"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091122870",
+          "qEn": "Choose the option that best completes the sentence using an appropriate adverb.\nThough unfamiliar with the topic, he responded to the questions ______.",
+          "qHi": "Choose the option that best completes the sentence using an appropriate adverb.\nThough unfamiliar with the topic, he responded to the questions ______.",
+          "optEn": [
+            "confidently",
+            "nervously",
+            "thoughtfully",
+            "cautiously"
+          ],
+          "optHi": [
+            "confidently",
+            "nervously",
+            "thoughtfully",
+            "cautiously"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091048253",
+          "qEn": "Fill in the blank with the correctly spelt word.\n_______ lines in geometry never intersect regardless of how far they extend.",
+          "qHi": "Fill in the blank with the correctly spelt word.\n_______ lines in geometry never intersect regardless of how far they extend.",
+          "optEn": [
+            "Parrallel",
+            "Paralell",
+            "Paralel",
+            "Parallel"
+          ],
+          "optHi": [
+            "Parrallel",
+            "Paralell",
+            "Paralel",
+            "Parallel"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009266958",
+          "qEn": "Select the most appropriate verb to fill in the blank.\nYesterday, they ___ indoors because of the storm.",
+          "qHi": "Select the most appropriate verb to fill in the blank.\nYesterday, they ___ indoors because of the storm.",
+          "optEn": [
+            "stay",
+            "staying",
+            "stayed",
+            "stays"
+          ],
+          "optHi": [
+            "stay",
+            "staying",
+            "stayed",
+            "stays"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009482752",
+          "qEn": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.\nHe had _______ idea about how to solve the problem.",
+          "qHi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.\nHe had _______ idea about how to solve the problem.",
+          "optEn": [
+            "an",
+            "No article required",
+            "the",
+            "a"
+          ],
+          "optHi": [
+            "an",
+            "No article required",
+            "the",
+            "a"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091555271",
+          "qEn": "Replace the highlighted word segment with the appropriate one-word substitute.\nThe country's government ruled by a small, powerful group made decisions that benefited only a few.\n[Highlighted: government ruled by a small, powerful group]",
+          "qHi": "Replace the highlighted word segment with the appropriate one-word substitute.\nThe country's government ruled by a small, powerful group made decisions that benefited only a few.\n[Highlighted: government ruled by a small, powerful group]",
+          "optEn": [
+            "anarchy",
+            "oligarchy",
+            "democracy",
+            "theocracy"
+          ],
+          "optHi": [
+            "anarchy",
+            "oligarchy",
+            "democracy",
+            "theocracy"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091265547",
+          "qEn": "Rectify the given sentence by selecting the correct spelling of the misspelt word from the options.\nThe teacher explained the significanse of hard work in achieving success, emphasizing that patience and dedication are the true keys to reaching one’s goals in life.",
+          "qHi": "Rectify the given sentence by selecting the correct spelling of the misspelt word from the options.\nThe teacher explained the significanse of hard work in achieving success, emphasizing that patience and dedication are the true keys to reaching one’s goals in life.",
+          "optEn": [
+            "acheving",
+            "techer",
+            "significance",
+            "sucess"
+          ],
+          "optHi": [
+            "acheving",
+            "techer",
+            "significance",
+            "sucess"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091555134",
+          "qEn": "A sentence has been broken into parts, jumbled, and marked as PQRST. Arrange all the parts to make a coherent sentence.\nP) which demonstrated a new method\nQ) the scientist presented her research\nR) useful biodegradable materials\nS) for converting plastic waste into\nT) with remarkable efficiency",
+          "qHi": "A sentence has been broken into parts, jumbled, and marked as PQRST. Arrange all the parts to make a coherent sentence.\nP) which demonstrated a new method\nQ) the scientist presented her research\nR) useful biodegradable materials\nS) for converting plastic waste into\nT) with remarkable efficiency",
+          "optEn": [
+            "QPSRT",
+            "PQSTR",
+            "TSRQP",
+            "SQPRT"
+          ],
+          "optHi": [
+            "QPSRT",
+            "PQSTR",
+            "TSRQP",
+            "SQPRT"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091526896",
+          "qEn": "Choose the option that expresses the antonym of 'impecunious' as used in the sentence.\nDespite being impecunious in his early years, the scientist pursued his research with unwavering dedication.\n[Highlighted: impecunious]",
+          "qHi": "Choose the option that expresses the antonym of 'impecunious' as used in the sentence.\nDespite being impecunious in his early years, the scientist pursued his research with unwavering dedication.\n[Highlighted: impecunious]",
+          "optEn": [
+            "valiant",
+            "destitute",
+            "affluent",
+            "frugal"
+          ],
+          "optHi": [
+            "valiant",
+            "destitute",
+            "affluent",
+            "frugal"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009352154",
+          "qEn": "Select the option that can be used as a one-word substitute for the given group of words/phrase.\nA person who studies the science of the universe beyond the Earth's atmosphere",
+          "qHi": "Select the option that can be used as a one-word substitute for the given group of words/phrase.\nA person who studies the science of the universe beyond the Earth's atmosphere",
+          "optEn": [
+            "Astronomer",
+            "Meteorologist",
+            "Geologist",
+            "Biologist"
+          ],
+          "optHi": [
+            "Astronomer",
+            "Meteorologist",
+            "Geologist",
+            "Biologist"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009352176",
+          "qEn": "Parts of a sentence are given below. While the first part is in the correct place, the remaining parts (labelled A, B, C and D) are jumbled up. Arrange the parts in the correct order to form a meaningful and coherent sentence.\nThe talented musician\n(A) melody on the piano, captivating\n(B) skilfully played the beautiful\n(C) their performance\n(D) the audience with",
+          "qHi": "Parts of a sentence are given below. While the first part is in the correct place, the remaining parts (labelled A, B, C and D) are jumbled up. Arrange the parts in the correct order to form a meaningful and coherent sentence.\nThe talented musician\n(A) melody on the piano, captivating\n(B) skilfully played the beautiful\n(C) their performance\n(D) the audience with",
+          "optEn": [
+            "ABCD",
+            "DACB",
+            "BCAD",
+            "BADC"
+          ],
+          "optHi": [
+            "ABCD",
+            "DACB",
+            "BCAD",
+            "BADC"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009498176",
+          "qEn": "Select the most appropriate articles to fill in the blanks.\nHe went out with __ umbrella knowing that __ little distance away, he was going to witness rain.",
+          "qHi": "Select the most appropriate articles to fill in the blanks.\nHe went out with __ umbrella knowing that __ little distance away, he was going to witness rain.",
+          "optEn": [
+            "an; the",
+            "an; a",
+            "a; an",
+            "the; an"
+          ],
+          "optHi": [
+            "an; the",
+            "an; a",
+            "a; an",
+            "the; an"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009415887",
+          "qEn": "Choose the option which will correctly substitute the underlined words.\nI always tell my students that practical work is more important than mere words.\n[Highlighted: practical work is more important than mere words]",
+          "qHi": "Choose the option which will correctly substitute the underlined words.\nI always tell my students that practical work is more important than mere words.\n[Highlighted: practical work is more important than mere words]",
+          "optEn": [
+            "A penny saved is a penny earned",
+            "Jack of all trades, master of none",
+            "Actions speak louder than words",
+            "The early bird catches the worm"
+          ],
+          "optHi": [
+            "A penny saved is a penny earned",
+            "Jack of all trades, master of none",
+            "Actions speak louder than words",
+            "The early bird catches the worm"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091126957",
+          "qEn": "Choose the most appropriate option to fill in the given blanks.\nHe didn’t come to class ___ he was sick, ___ he sent his assignment.",
+          "qHi": "Choose the most appropriate option to fill in the given blanks.\nHe didn’t come to class ___ he was sick, ___ he sent his assignment.",
+          "optEn": [
+            "because, but",
+            "although, and",
+            "since, and",
+            "as, or"
+          ],
+          "optHi": [
+            "because, but",
+            "although, and",
+            "since, and",
+            "as, or"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091524135",
+          "qEn": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nIdentify the central theme of the passage.",
+          "qHi": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nIdentify the central theme of the passage.",
+          "optEn": [
+            "Searching for water on Mars",
+            "Discovery of organic matter and its implication for life on Mars",
+            "Mars’ atmospheric changes",
+            "Technical features of the Mars Rover"
+          ],
+          "optHi": [
+            "Searching for water on Mars",
+            "Discovery of organic matter and its implication for life on Mars",
+            "Mars’ atmospheric changes",
+            "Technical features of the Mars Rover"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091524136",
+          "qEn": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nIdentify the fact stated in the passage.",
+          "qHi": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nIdentify the fact stated in the passage.",
+          "optEn": [
+            "Methane on Mars lasts for millions of years.",
+            "Organic molecules were found in Gale Crater.",
+            "Sulphur destroys organic molecules on Mars.",
+            "Organic molecules prove ancient life on Mars."
+          ],
+          "optHi": [
+            "Methane on Mars lasts for millions of years.",
+            "Organic molecules were found in Gale Crater.",
+            "Sulphur destroys organic molecules on Mars.",
+            "Organic molecules prove ancient life on Mars."
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091524137",
+          "qEn": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nWhat is the antonym of the word “preserved” as used in the passage?\n[Highlighted: preserved]",
+          "qHi": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nWhat is the antonym of the word “preserved” as used in the passage?\n[Highlighted: preserved]",
+          "optEn": [
+            "Saved",
+            "Protected",
+            "Maintained",
+            "Destroyed"
+          ],
+          "optHi": [
+            "Saved",
+            "Protected",
+            "Maintained",
+            "Destroyed"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091524138",
+          "qEn": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nSelect the correct summary for the passage.",
+          "qHi": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nSelect the correct summary for the passage.",
+          "optEn": [
+            "Mars has no signs of organic material or past life.",
+            "Mars is too harsh for any organic matter to survive.",
+            "The passage details Mars Rover’s technical instruments only.",
+            "NASA’s rover detected organic compounds on Mars, hinting at past life."
+          ],
+          "optHi": [
+            "Mars has no signs of organic material or past life.",
+            "Mars is too harsh for any organic matter to survive.",
+            "The passage details Mars Rover’s technical instruments only.",
+            "NASA’s rover detected organic compounds on Mars, hinting at past life."
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091524139",
+          "qEn": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nThe passage’s tone when describing future missions can best be described as:",
+          "qHi": "A new study published in Science provides clear evidence of organic matter on Mars’s surface. NASA’s rover Curiosity collected the data, confirming earlier findings that Mars once had carbon-based compounds essential for life. These organic molecules were found in Gale Crater, an area that may have been a lake over three billion years ago. The rocks containing the organics also had sulfur, which might have preserved them despite harsh surface radiation. While the presence of organic molecules doesn’t prove ancient life—since they could form through non-living processes—it’s a significant discovery. About five years ago, Curiosity also detected methane, a basic organic molecule and natural gas component, in the Martian atmosphere. Methane only lasts a few hundred years, suggesting an unknown source replenishes it. Its levels fluctuate seasonally, possibly due to underground icy crystals releasing gas.\n\nThese findings indicate Mars is more active than thought and might be becoming more habitable. Future missions, like ESA’s Exo Mars and NASA’s Mars Rover in 2020, aim to explore the soil and atmosphere further, potentially answering if life ever existed on Mars.\n\nThe passage’s tone when describing future missions can best be described as:",
+          "optEn": [
+            "Optimistic",
+            "Dismissive",
+            "Pessimistic",
+            "Apathetic"
+          ],
+          "optHi": [
+            "Optimistic",
+            "Dismissive",
+            "Pessimistic",
+            "Apathetic"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        }
+      ]
+    },
+    {
+      "name": "Hindi Language and Comprehension",
+      "nameHi": "हिंदी भाषा एवं बोध",
+      "questions": [
+        {
+          "qid": "4410091629447",
+          "qEn": "'उखड़े बाल ना और नाम बलवंत सिंह' लोकोक्ति का सही अर्थ क्या है ?",
+          "qHi": "'उखड़े बाल ना और नाम बलवंत सिंह' लोकोक्ति का सही अर्थ क्या है ?",
+          "optEn": [
+            "अव्यवहारिक बात करना",
+            "महाशक्तिशाली होना",
+            "नाम के अनुरूप गुण का नहीं होना",
+            "दर-बदर होना"
+          ],
+          "optHi": [
+            "अव्यवहारिक बात करना",
+            "महाशक्तिशाली होना",
+            "नाम के अनुरूप गुण का नहीं होना",
+            "दर-बदर होना"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091305179",
+          "qEn": "उपयुक्त विशेषण का चयन कर दिए गए वाक्य को पूर्ण कीजिए।\nदिलीप उस्मान से ................................खाना खाता है ।",
+          "qHi": "उपयुक्त विशेषण का चयन कर दिए गए वाक्य को पूर्ण कीजिए।\nदिलीप उस्मान से ................................खाना खाता है ।",
+          "optEn": [
+            "प्रत्येक",
+            "तिगुना",
+            "एक",
+            "पहला"
+          ],
+          "optHi": [
+            "प्रत्येक",
+            "तिगुना",
+            "एक",
+            "पहला"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091288649",
+          "qEn": "उचित क्रिया विशेषण शब्द से वाक्य पूरा कीजिए।\n' वह _________ जाएगा।'",
+          "qHi": "उचित क्रिया विशेषण शब्द से वाक्य पूरा कीजिए।\n' वह _________ जाएगा।'",
+          "optEn": [
+            "थोड़ा",
+            "बिल्कुल",
+            "अतिशय",
+            "प्रत्यक्ष"
+          ],
+          "optHi": [
+            "थोड़ा",
+            "बिल्कुल",
+            "अतिशय",
+            "प्रत्यक्ष"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091304618",
+          "qEn": "'गोद लिया हुआ लड़का' वाक्यांश के लिए सार्थक शब्द होगा -",
+          "qHi": "'गोद लिया हुआ लड़का' वाक्यांश के लिए सार्थक शब्द होगा -",
+          "optEn": [
+            "दत्त",
+            "दत्तक",
+            "दगहा",
+            "दत्तचित्त"
+          ],
+          "optHi": [
+            "दत्त",
+            "दत्तक",
+            "दगहा",
+            "दत्तचित्त"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091626541",
+          "qEn": "निम्न में से वाक्य में रेखांकित शब्द का विलोम शब्द कौन-सा है ?\n'मेरा पड़ोसी बहुत ही अनुदार व्यक्ति है।'\n[रेखांकित: अनुदार]",
+          "qHi": "निम्न में से वाक्य में रेखांकित शब्द का विलोम शब्द कौन-सा है ?\n'मेरा पड़ोसी बहुत ही अनुदार व्यक्ति है।'\n[रेखांकित: अनुदार]",
+          "optEn": [
+            "उदार",
+            "ऊसर",
+            "कुटज",
+            "सुधार"
+          ],
+          "optHi": [
+            "उदार",
+            "ऊसर",
+            "कुटज",
+            "सुधार"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091618013",
+          "qEn": "“आँखों में धूल झोंकना\"- मुहावरे का क्या अर्थ है?",
+          "qHi": "“आँखों में धूल झोंकना\"- मुहावरे का क्या अर्थ है?",
+          "optEn": [
+            "नज़रों से ओझल हो जाना",
+            "हाथ की सफाई दिखाना",
+            "गैर-कानूनी कार्य करना",
+            "धोखा देना"
+          ],
+          "optHi": [
+            "नज़रों से ओझल हो जाना",
+            "हाथ की सफाई दिखाना",
+            "गैर-कानूनी कार्य करना",
+            "धोखा देना"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091626107",
+          "qEn": "‘अत्यंत प्रसन्न होना’ अर्थ के लिए सही मुहावरा क्या है?",
+          "qHi": "‘अत्यंत प्रसन्न होना’ अर्थ के लिए सही मुहावरा क्या है?",
+          "optEn": [
+            "बाछें खिल जाना",
+            "बेपेंदी का लोटा",
+            "नाक भौं चढ़ाना",
+            "मीठी छुरी चलाना"
+          ],
+          "optHi": [
+            "बाछें खिल जाना",
+            "बेपेंदी का लोटा",
+            "नाक भौं चढ़ाना",
+            "मीठी छुरी चलाना"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091242706",
+          "qEn": "निम्नलिखित वाक्य के रिक्त स्थान में उचित परिमाणवाचक क्रिया-विशेषण शब्द का प्रयोग करें -\n'बच्चे को पीने के लिए दूध दे दो।'",
+          "qHi": "निम्नलिखित वाक्य के रिक्त स्थान में उचित परिमाणवाचक क्रिया-विशेषण शब्द का प्रयोग करें -\n'बच्चे को पीने के लिए दूध दे दो।'",
+          "optEn": [
+            "ठीक",
+            "आगे",
+            "अत्यंत",
+            "थोड़ा"
+          ],
+          "optHi": [
+            "ठीक",
+            "आगे",
+            "अत्यंत",
+            "थोड़ा"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091629820",
+          "qEn": "निम्नलिखित विकल्पों में से रेखांकित शब्द का पर्यायवाची पहचानिए।\n'प्रातः सूर्य की किरणों के स्पर्श से तालाब में खिला कमल और भी मनमोहक दिखाई देने लगा है।'\n[रेखांकित: कमल]",
+          "qHi": "निम्नलिखित विकल्पों में से रेखांकित शब्द का पर्यायवाची पहचानिए।\n'प्रातः सूर्य की किरणों के स्पर्श से तालाब में खिला कमल और भी मनमोहक दिखाई देने लगा है।'\n[रेखांकित: कमल]",
+          "optEn": [
+            "सरसिज",
+            "अंशु",
+            "शुनक",
+            "तुषार"
+          ],
+          "optHi": [
+            "सरसिज",
+            "अंशु",
+            "शुनक",
+            "तुषार"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091626417",
+          "qEn": "निम्न में से 'एक तो करेला कडुआ, दूसरे नीम चढ़ा' लोकोक्ति का सही अर्थ कौन-सा है ?",
+          "qHi": "निम्न में से 'एक तो करेला कडुआ, दूसरे नीम चढ़ा' लोकोक्ति का सही अर्थ कौन-सा है ?",
+          "optEn": [
+            "जैसा करोगे वैसा पाओगे",
+            "एक वस्तु और चाहने वाले अनेक",
+            "निकम्मा आदमी बातूनी होता है",
+            "कुसंग में पड़कर और बुरा होना"
+          ],
+          "optHi": [
+            "जैसा करोगे वैसा पाओगे",
+            "एक वस्तु और चाहने वाले अनेक",
+            "निकम्मा आदमी बातूनी होता है",
+            "कुसंग में पड़कर और बुरा होना"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091288105",
+          "qEn": "‘जब तक वर्षा नहीं_______ किसान खेती शुरू नहीं करेंगे।’ रिक्त स्थान की पूर्ति उचित क्रिया शब्द से करें।",
+          "qHi": "‘जब तक वर्षा नहीं_______ किसान खेती शुरू नहीं करेंगे।’ रिक्त स्थान की पूर्ति उचित क्रिया शब्द से करें।",
+          "optEn": [
+            "होगी",
+            "होती",
+            "हो",
+            "हुए"
+          ],
+          "optHi": [
+            "होगी",
+            "होती",
+            "हो",
+            "हुए"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091629912",
+          "qEn": "निम्नलिखित विकल्पों में से रेखांकित शब्द का विलोम पहचानिए।\n'मेरा स्पष्ट मानना है कि जो व्यक्ति दूसरों की निंदा में समय नष्ट नहीं करता, वही अपने जीवन में आगे बढ़ता है।'\n[रेखांकित: निंदा]",
+          "qHi": "निम्नलिखित विकल्पों में से रेखांकित शब्द का विलोम पहचानिए।\n'मेरा स्पष्ट मानना है कि जो व्यक्ति दूसरों की निंदा में समय नष्ट नहीं करता, वही अपने जीवन में आगे बढ़ता है।'\n[रेखांकित: निंदा]",
+          "optEn": [
+            "स्तुति",
+            "नत",
+            "विनत",
+            "श्रुति"
+          ],
+          "optHi": [
+            "स्तुति",
+            "नत",
+            "विनत",
+            "श्रुति"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091624871",
+          "qEn": "अब मैं अनाथ हो गई हूँ ।\nउपर्युक्त रेखांकित शब्द का विलोम क्या होगा ?\n[रेखांकित: अनाथ]",
+          "qHi": "अब मैं अनाथ हो गई हूँ ।\nउपर्युक्त रेखांकित शब्द का विलोम क्या होगा ?\n[रेखांकित: अनाथ]",
+          "optEn": [
+            "अकीर्ति",
+            "सनाथ",
+            "निस्सीम",
+            "सदोष"
+          ],
+          "optHi": [
+            "अकीर्ति",
+            "सनाथ",
+            "निस्सीम",
+            "सदोष"
+          ],
+          "ans": 1,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "441009557361",
+          "qEn": "निम्नलिखित वाक्यांशों को उचित क्रम में लगाकर एक शुद्ध वाक्य बनाइए:\n1- जिस संज्ञा या सर्वनाम\n2- प्रकट की जाती है\n3- शब्द की विशेषता\n4- उसे विशेष्य कहते हैं",
+          "qHi": "निम्नलिखित वाक्यांशों को उचित क्रम में लगाकर एक शुद्ध वाक्य बनाइए:\n1- जिस संज्ञा या सर्वनाम\n2- प्रकट की जाती है\n3- शब्द की विशेषता\n4- उसे विशेष्य कहते हैं",
+          "optEn": [
+            "1, 3, 2, 4",
+            "3, 4, 2, 1",
+            "4, 3, 1, 2",
+            "2, 3, 1, 4"
+          ],
+          "optHi": [
+            "1, 3, 2, 4",
+            "3, 4, 2, 1",
+            "4, 3, 1, 2",
+            "2, 3, 1, 4"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091278337",
+          "qEn": "'संकट के समय उसने ------------------- सहायता की।' वाक्य के रिक्त स्थान के लिए क्रिया-विशेषण शब्द कौन-सा है?",
+          "qHi": "'संकट के समय उसने ------------------- सहायता की।' वाक्य के रिक्त स्थान के लिए क्रिया-विशेषण शब्द कौन-सा है?",
+          "optEn": [
+            "लोगों की",
+            "बूढ़ों की",
+            "गरीबों की",
+            "बहुत"
+          ],
+          "optHi": [
+            "लोगों की",
+            "बूढ़ों की",
+            "गरीबों की",
+            "बहुत"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091627902",
+          "qEn": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nभारत में नाटक साहित्य की परंपरा के संदर्भ में कौन-सा कथन सही है?",
+          "qHi": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nभारत में नाटक साहित्य की परंपरा के संदर्भ में कौन-सा कथन सही है?",
+          "optEn": [
+            "भारत में नाटक साहित्य का विकास मध्यकाल में हुआ।",
+            "नाटक साहित्य की परंपरा भारत में अल्पकालिक रही।",
+            "नाट्यशास्त्र की रचना सर्वप्रथम भारत में हुई।",
+            "भारत में नाटक का विकास केवल संस्कृत तक सीमित रहा।"
+          ],
+          "optHi": [
+            "भारत में नाटक साहित्य का विकास मध्यकाल में हुआ।",
+            "नाटक साहित्य की परंपरा भारत में अल्पकालिक रही।",
+            "नाट्यशास्त्र की रचना सर्वप्रथम भारत में हुई।",
+            "भारत में नाटक का विकास केवल संस्कृत तक सीमित रहा।"
+          ],
+          "ans": 2,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091627903",
+          "qEn": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nनिम्नलिखित में से नाटक पर विचार करने वाले प्रमुख आचार्यों में कौन-सा नाम गद्यांश में उल्लिखित नहीं है?",
+          "qHi": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nनिम्नलिखित में से नाटक पर विचार करने वाले प्रमुख आचार्यों में कौन-सा नाम गद्यांश में उल्लिखित नहीं है?",
+          "optEn": [
+            "मम्मट",
+            "अभिनवगुप्त",
+            "धनंजय",
+            "भरत"
+          ],
+          "optHi": [
+            "मम्मट",
+            "अभिनवगुप्त",
+            "धनंजय",
+            "भरत"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091627904",
+          "qEn": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nआचार्य धनंजय के अनुसार नाटक की परिभाषा क्या है?",
+          "qHi": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nआचार्य धनंजय के अनुसार नाटक की परिभाषा क्या है?",
+          "optEn": [
+            "अवस्था की अनुकृति",
+            "जीवन की कलात्मक अभिव्यक्ति",
+            "रस की अनुभूति कराने वाली विधा",
+            "कल्पना और यथार्थ का समन्वय"
+          ],
+          "optHi": [
+            "अवस्था की अनुकृति",
+            "जीवन की कलात्मक अभिव्यक्ति",
+            "रस की अनुभूति कराने वाली विधा",
+            "कल्पना और यथार्थ का समन्वय"
+          ],
+          "ans": 0,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091627905",
+          "qEn": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nसाहित्य की सभी विधाओं में नाटक को विशिष्ट बनाने वाला प्रमुख तत्त्व कौन-सा है?",
+          "qHi": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nसाहित्य की सभी विधाओं में नाटक को विशिष्ट बनाने वाला प्रमुख तत्त्व कौन-सा है?",
+          "optEn": [
+            "संवाद",
+            "रस",
+            "अनुकरण",
+            "कल्पना"
+          ],
+          "optHi": [
+            "संवाद",
+            "रस",
+            "अनुकरण",
+            "कल्पना"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        },
+        {
+          "qid": "4410091627906",
+          "qEn": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nगद्यांश के अनुसार नाटक को साहित्य की विधा बनाने वाला प्रमुख कारण क्या है?",
+          "qHi": "नीचे दिए गए परिच्छेद को ध्यानपूर्वक पढ़ें और उसके आधार पर पूछे गए प्रश्नों के उत्तर दें।\n\nभारत में नाटक साहित्य की एक ऐसी विधा है, जिसकी लंबी परंपरा पाई जाती है। भारत में ही नाट्यशास्त्र की रचना सबसे पहले हुई। यहाँ नाट्यशास्त्र के अनेक आचार्य हुए, जिन्होंने नाटक पर बड़े विस्तार और गंभीरता से इस विधा पर विचार किया है। इनमें भरत, धनंजय, रामचंद्र-गुणचंद्र, अभिनवगुप्त, विश्वनाथ आदि के नाम अधिक प्रसिद्ध हैं। आचार्य धनंजय ने नाटक की परिभाषा इस प्रकार बताई है- अवस्था की अनुकृति नाटक है। यह परिभाषा सार्थक, व्यावहारिक और उपयोगी है। नाटक में अनुकरण तत्त्व की प्रधानता है। साहित्य की सभी विधाओं में नाटक ही वह विधा है, जिसमें अनुकरण पर सर्वाधिक बल दिया गया है। यह अनुकरण किसका होता है? उत्तर है- कार्य, अर्थात मानवीय जीवन के क्रियाशील कार्यों का। मनुष्य अनेक परिस्थितियों से हर क्षण गुजरता है। उसकी विभिन्न अवस्थाएँ होती हैं। भिन्न-भिन्न अवस्थाओं में रहने के कारण उसके जीवन-रंगमंच पर अनेक दृश्य (स्थितियाँ) आते-जाते रहते हैं। नाटककार नाटक की रचना करते समय इन्हीं स्थितियों का अनुकरण करता है। नाटक में जीवन का यथार्थमूलक अनुकरण होते हुए भी नाटककार सर्जनात्म्क कल्पना करता है। यही कल्पना नाटक को साहित्य की विधा प्रदान करती है। इसलिए नाटक एक ऐसी कला है, जिसमें अनुकरण और कल्पना दोनों का योग रहता है। इसका उद्देश्य पहले शिक्षण और मनोरंजन था।\n\nगद्यांश के अनुसार नाटक को साहित्य की विधा बनाने वाला प्रमुख कारण क्या है?",
+          "optEn": [
+            "केवल यथार्थ का चित्रण",
+            "केवल मनोरंजन का उद्देश्य",
+            "शिक्षण की प्रधानता",
+            "अनुकरण के साथ सर्जनात्मक कल्पना का योग"
+          ],
+          "optHi": [
+            "केवल यथार्थ का चित्रण",
+            "केवल मनोरंजन का उद्देश्य",
+            "शिक्षण की प्रधानता",
+            "अनुकरण के साथ सर्जनात्मक कल्पना का योग"
+          ],
+          "ans": 3,
+          "solEn": "",
+          "solHi": ""
+        }
+      ]
+    }
+  ]
+}
